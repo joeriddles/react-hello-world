@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Hello World React App
+
+https://reactjs.org/tutorial/tutorial.html#what-is-react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
